@@ -1,0 +1,43 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  background-color: aqua;
+}
+
+.p1 {
+  background-color: azure;
+}
+
+.p2 {
+  background-color: blueviolet;
+}
+
+h2 {
+  background-color: green;
+}
+
+ol {
+  background-color: brown;
+}
+
+#item1 {
+  color: aqua;
+}
+
+#item2 {
+  color: chartreuse;
+}
+
+#item3 {
+  color: yellow;
+}
+
+#item4 {
+  color: violet;
+}
+
+#item5 {
+  color: blue;
+}
